@@ -1,3 +1,3 @@
 # Pray2U
 
-This isPray2U Profile Repo
+This is Pray2U Profile Repo
