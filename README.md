@@ -1,2 +1,3 @@
-# .github
-Pray2U Profile Repo
+# Pray2U
+
+This isPray2U Profile Repo
