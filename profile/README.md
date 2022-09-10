@@ -1,12 +1,34 @@
-# Pray2U 🙏
+<div align="center"><h1>🙏ℙ𝕣𝕒𝕪𝟚𝕌🙏</h1></div>
 
 **"Pray2U" is a private community that will continue to operate.  
 It mainly deals with the Development, and its founding philosophy is Collaboration Project✌️, Research📑, and Innovation✈️.**
+  
+---    
+## 🙋‍♂️ Who participates in *Pray2U*?  
 
-## 🙋‍♀️ A short introduction  
+<div align="center">
+    <a href="https://github.com/ash-hun" align="center">
+      <img src=https://img.shields.io/badge/Ash_hun-000000?style=flat-square/>
+    </a>
+    <a href="https://github.com/MinsungKimDev" align="center">
+      <img src=https://img.shields.io/badge/MinsungKimDev-7b00bd?style=flat-square/>
+    </a>
+    <a href="https://github.com/HS980924" align="center">
+      <img src=https://img.shields.io/badge/HS980924-5e5858?style=flat-square/>
+    </a>
+    <a href="https://github.com/chaeha617" align="center">
+      <img src=https://img.shields.io/badge/chaeha617-e67c7c?style=flat-square/>
+    </a>
+    <a href="https://github.com/Yurile72" align="center">
+      <img src=https://img.shields.io/badge/Yurile72-ededed?style=flat-square/>
+    </a>
+    <a href="https://github.com/go-ring" align="center">
+      <img src=https://img.shields.io/badge/LeeGaEun-7dd600?style=flat-square/>
+    </a>
+</div>
+
+## 👩‍💻 What does *Pray2U* have a project?
 `There is a virtually space on Github and personally workspace.`
 
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🍿 Fun facts - what does your team eat for breakfast?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🌈 [**Abara OneMore - Season 01**](https://github.com/Pray2U/AbaraOneMore) : ☕ 커피한잔 마시면서 진행하는 데일리 세미나  
+👩‍💻 [**pyKorTofu**](https://github.com/Pray2U/pyKorTofu) : 🧉 비속어를 필터링해주는 파이썬 라이브러리  
