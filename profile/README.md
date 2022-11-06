@@ -23,7 +23,10 @@ It mainly deals with the Development, and its founding philosophy is Collaborati
       <img src=https://img.shields.io/badge/Yurile72-ededed?style=flat-square/>
     </a>
     <a href="https://github.com/go-ring" align="center">
-      <img src=https://img.shields.io/badge/LeeGaEun-7dd600?style=flat-square/>
+      <img src=https://img.shields.io/badge/goring-7dd600?style=flat-square/>
+    </a>
+    <a href="https://github.com/kimju-hee" align="center">
+      <img src=https://img.shields.io/badge/kimjuhee-ed61e6?style=flat-square/>
     </a>
 </div>
 
