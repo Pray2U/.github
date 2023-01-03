@@ -40,7 +40,7 @@
 `There is a virtually space on Github and personally workspace.`
 
 📋 [**Arxivus**](https://github.com/Pray2U/Arxivus) : 👩‍💻 개발자의, 개발자에 의한, 개발자를 위한! 아카이빙 레포지토리  
-🌈 [**Abara OneMore - Season 01**](https://github.com/Pray2U/AbaraOneMore) : ☕ 커피한잔 마시면서 진행하는 데일리 세미나  
+🌈 [**Abara OneMore - Season 02**](https://github.com/Pray2U/AbaraOneMore) : ☕ 커피한잔 마시면서 진행하는 데일리 세미나  
 👩‍💻 [**koSlang**](https://github.com/Pray2U/koSlang) : 🧉 비속어를 필터링해주는 파이썬 라이브러리  
 😍 [**Pair Programming**](https://github.com/Pray2U/Pair2goring-ashhun) : 🐱‍🚀 페어 프로그래밍 (with. Go-ring, ash-hun)   
 🥰 [**Pair Programming**](https://github.com/Pray2U/Pair2kimjuhee-ashhun) : 🐔🔥 페어 프로그래밍 (with. kimjuhee, ash-hun)
