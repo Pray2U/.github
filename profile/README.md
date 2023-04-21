@@ -34,6 +34,9 @@
     <a href="https://github.com/limjongheok" align="center">
       <img src=https://img.shields.io/badge/limjongheok-3f46d1?style=flat-square/>
     </a>
+    <a href="https://github.com/Byunjihun" align="center">
+      <img src=https://img.shields.io/badge/Byunjihun-cfa900?style=flat-square/>
+    </a>
 </div>
 
 ## 👩‍💻 What does *Pray2U* have a project?
@@ -45,4 +48,5 @@
 😍 [**Pair Programming**](https://github.com/Pray2U/Pair2goring-ashhun) : 🐱‍🚀 페어 프로그래밍 (with. Go-ring, ash-hun)   
 🥰 [**Pair Programming**](https://github.com/Pray2U/Pair2kimjuhee-ashhun) : 🐔🔥 페어 프로그래밍 (with. kimjuhee, ash-hun)  
 ✅ [**Pray2U Official Homepage**](https://github.com/Pray2U/Pray2U_Homepage) : 😎✨ Pray2U 커뮤니티 공식 홈페이지  
-🅰️ [**2023 Algorithm Study**](https://github.com/Pray2U/Algorithm-Study) : 🥇🏆 2023 알고리즘 스터디 (with. Algorithm Team)
+🅰️ [**2023 Algorithm Study**](https://github.com/Pray2U/Algorithm-Study) : 🥇🏆 2023 알고리즘 스터디 (with. Algorithm Team)  
+💻 [**Decorate MY Laptop**](https://github.com/Pray2U/Decorate_My_Laptop) : 👉💻 내 노트북을 꾸며줘
