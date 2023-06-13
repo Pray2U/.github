@@ -49,5 +49,5 @@
 🥰 [**Pair Programming**](https://github.com/Pray2U/Pair2kimjuhee-ashhun) : 🐔🔥 페어 프로그래밍 (with. kimjuhee, ash-hun)  
 ✅ [**Pray2U Official Homepage**](https://github.com/Pray2U/Pray2U_Homepage) : 😎✨ Pray2U 커뮤니티 공식 홈페이지  
 🅰️ [**2023 Algorithm Study**](https://github.com/Pray2U/Algorithm-Study) : 🥇🏆 2023 알고리즘 스터디 (with. Algorithm Team)  
-💻 [**Decorate MY Laptop**](https://github.com/Pray2U/Decorate_My_Laptop) : 👉💻 내 노트북을 꾸며줘
+💻 [**Decorate MY Laptop**](https://github.com/Pray2U/Decorate_My_Laptop) : 👉💻 내 노트북을 꾸며줘  
 📔 [**Black Jack Project**](https://github.com/Pray2U/Java_Study_BlackJackProject) : 📔 자바 스터디에서 진행한 블랙잭 프로젝트 
